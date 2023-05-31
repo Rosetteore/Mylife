@@ -1,0 +1,24 @@
+div {
+display:flex;
+justify-content: space-between;
+align-items: center;
+}
+h3{
+    text-decoration: underline;
+    justify-content: space-between;
+    color: brown;
+}
+h2{
+    text-decoration: underline;
+    color: black;
+    border-radius: 6%;
+    align-items: center;
+    border-style: unset;
+    border-width: 5px;
+}
+body{
+    
+    border-width: 10px;
+
+}
+

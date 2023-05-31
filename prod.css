@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1{
+    text-decoration: underline;
+    color: maroon;
+    font-size: xx-large;
+}
+ nav{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    /*border: 1px solide red;
+    border-top: white;
+    border-bottom: white;
+    border-left: white;
+    padding: 5px;*/
+
+}
+nav a{
+    font-size: large;
+    text-transform: uppercase;
+    margin: 20px 0 0 10px;
+    text-decoration: none;
+
+}
+
+ .acceuil img
+ {
+    float: left;
+ }
+h2{
+    text-decoration: underline;
+    color: maroon;
+    margin: 40px 35px 35px 0px;
+ }
+ div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ }
