@@ -1,0 +1,14 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: align-center;
+}
+h3{
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+h5{
+    text-decoration: underline;
+    margin: 15%  10%;
+}
